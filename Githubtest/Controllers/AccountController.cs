@@ -12,6 +12,7 @@ using Githubtest.Models;
 
 namespace Githubtest.Controllers
 {
+    //test av jonny
     [Authorize]
     public class AccountController : Controller
     {
